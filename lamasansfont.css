@@ -1,13 +1,13 @@
 
 @font-face {
-font-family: "lama sans";
+font-family: "lamasans";
 font-style: normal;
 src: url(lamasans.ttf) format("ttf");
 font-display: auto;
 }
 
 @font-face {
-font-family: "lama sans";
+font-family: "lamasans";
 font-style: normal;
 font-weight: 700;
 src: url(lamasans.ttf) format("truetype");
@@ -17,7 +17,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family: "lama sans", cursive;
+font-family: "lamasans", cursive;
 text-align: center;
 }
 
